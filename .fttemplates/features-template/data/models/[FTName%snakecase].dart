@@ -1,0 +1,3 @@
+class <FTName | pascalcase>Modal {
+ 
+}

@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by AhmedHF on 27/12/2022.
+  
+*/
+"CFBundleName" = "Global Station";
+"CFBundleDisplayName" = "Global Station";
+"NSCameraUsageDescription" = "يستخدم تطبيق Global Station الكاميرا لتغيير صورة المستخدم";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "يتيح فتح خدمات الموقع لتطبيق Global Station الحصول على موقعك لاستخدامه في عناوينك";
+"NSLocationAlwaysUsageDescription" = "يتيح فتح خدمات الموقع لتطبيق Global Station الحصول على موقعك لاستخدامه في عناوينك";
+"NSLocationWhenInUseUsageDescription" = "يتيح فتح خدمات الموقع لتطبيق Global Station الحصول على موقعك لاستخدامه في عناوينك";
+"NSPhotoLibraryUsageDescription" = "يستخدم تطبيق Global Station مكتبة الصور لتغيير صورة المستخدم";

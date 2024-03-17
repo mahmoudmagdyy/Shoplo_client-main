@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">
+		Global Station
+	</string>
+	<string name="default_notification_channel_id">
+		basic_channel
+	</string>
+</resources>

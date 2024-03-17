@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "831418037461",
+    "project_id": "shoplo-80327",
+    "storage_bucket": "shoplo-80327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831418037461:android:11775d13a5b831fd929e5c",
+        "android_client_info": {
+          "package_name": "com.fudex.globalstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mbtjdGWTxCjsD2-E3binkTl_Nv02dGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831418037461-0klo7t9eokjh7188e2deq5q4jeuodmek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fudex.shoplo.client"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831418037461:android:f8bee4f151ac2194929e5c",
+        "android_client_info": {
+          "package_name": "com.fudex.globalstation.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mbtjdGWTxCjsD2-E3binkTl_Nv02dGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831418037461-0klo7t9eokjh7188e2deq5q4jeuodmek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fudex.shoplo.client"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831418037461:android:e52e4b2d982564d7929e5c",
+        "android_client_info": {
+          "package_name": "com.fudex.shoplo.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mbtjdGWTxCjsD2-E3binkTl_Nv02dGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831418037461-0klo7t9eokjh7188e2deq5q4jeuodmek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fudex.shoplo.client"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831418037461:android:3116e396d45e9360929e5c",
+        "android_client_info": {
+          "package_name": "com.fudex.shoplo.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mbtjdGWTxCjsD2-E3binkTl_Nv02dGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831418037461-ibvl9ntagigo5afemul5nl0mgt6e8spe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831418037461-0klo7t9eokjh7188e2deq5q4jeuodmek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fudex.shoplo.client"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
